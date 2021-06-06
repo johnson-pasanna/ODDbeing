@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+html {
+     background-image: url(images/background/SPACE\ BACKGROUND.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+     
+
+    }
+
+h2 {
+    font-family: "dancing script";
+    font-weight: bolder;
+    font-size: 32px;
+    color: blanchedalmond;
+}
+
+.navigation {
+    text-decoration: none;
+    
+}
+
+
+
